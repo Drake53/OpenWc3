@@ -1,0 +1,3 @@
+[submodule "submodules/War3Net"]
+	path = submodules/War3Net
+	url = https://github.com/Drake53/War3Net
